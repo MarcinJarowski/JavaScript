@@ -1,2 +1,2 @@
 # JavaScript
-These are examples on JavaScript Basics introduced in TheNetNinja youtube tutorial. 
+These are examples on JavaScript Basics introduced by TheNetNinja youtube tutorial. 
