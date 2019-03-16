@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+}
+
+.headline {
+  font-family: 'Elsie', cursive;
+  text-align: center;
+  margin: 1rem 0 3rem;
+  font-size: 3rem;
+}
+
+.paragraph {
+  font-family: 'Antic Didone', serif;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+
+.wrapper {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.wrapper__img {
+  max-width: 100%;
+  height: auto;
+}
+
+.catbox{
+  width: 200px;
+  height: 200px;
+  background-color: brown;
+  text-align: center;
+  margin: 100px;
+}
